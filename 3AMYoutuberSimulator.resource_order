@@ -27,6 +27,7 @@
     {"name":"oCard","order":8,"path":"objects/oCard/oCard.yy",},
     {"name":"oExit","order":4,"path":"objects/oExit/oExit.yy",},
     {"name":"oMenu","order":1,"path":"objects/oMenu/oMenu.yy",},
+    {"name":"oThumbnail","order":9,"path":"objects/oThumbnail/oThumbnail.yy",},
     {"name":"rInit","order":1,"path":"rooms/rInit/rInit.yy",},
     {"name":"rMainRoom","order":2,"path":"rooms/rMainRoom/rMainRoom.yy",},
     {"name":"sCardControl","order":5,"path":"sprites/sCardControl/sCardControl.yy",},

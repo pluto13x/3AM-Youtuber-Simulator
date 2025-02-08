@@ -55,6 +55,7 @@
     {"id":{"name":"oCard","path":"objects/oCard/oCard.yy",},},
     {"id":{"name":"oExit","path":"objects/oExit/oExit.yy",},},
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
+    {"id":{"name":"oThumbnail","path":"objects/oThumbnail/oThumbnail.yy",},},
     {"id":{"name":"rInit","path":"rooms/rInit/rInit.yy",},},
     {"id":{"name":"rMainMenu","path":"rooms/rMainMenu/rMainMenu.yy",},},
     {"id":{"name":"rMainRoom","path":"rooms/rMainRoom/rMainRoom.yy",},},

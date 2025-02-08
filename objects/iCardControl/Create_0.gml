@@ -22,8 +22,9 @@ for (var i = 0; i < cardsAmount; i += 1) {
 
 cardOrder = array_shuffle(cardOrder);
 show_debug_message(cardOrder);
+next = 0;
 
-
+pickedCards = [];
 
 //define card positions
 card1x = 0;
