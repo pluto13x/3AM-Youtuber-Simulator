@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sPopup",
-    "path":"sprites/sPopup/sPopup.yy",
+    "name":"sCard",
+    "path":"sprites/sCard/sCard.yy",
   },
   "spriteMaskId":null,
   "visible":true,
