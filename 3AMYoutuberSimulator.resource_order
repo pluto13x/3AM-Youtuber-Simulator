@@ -46,6 +46,7 @@
     {"name":"oShowUsernameDown","order":19,"path":"objects/oShowUsernameDown/oShowUsernameDown.yy",},
     {"name":"oStatsUI","order":10,"path":"objects/oStatsUI/oStatsUI.yy",},
     {"name":"oThumbnail","order":9,"path":"objects/oThumbnail/oThumbnail.yy",},
+    {"name":"oUpload","order":21,"path":"objects/oUpload/oUpload.yy",},
     {"name":"oVideoStatsUI","order":15,"path":"objects/oVideoStatsUI/oVideoStatsUI.yy",},
     {"name":"rInit","order":1,"path":"rooms/rInit/rInit.yy",},
     {"name":"rMainRoom","order":2,"path":"rooms/rMainRoom/rMainRoom.yy",},
@@ -72,6 +73,7 @@
     {"name":"sThumbnailControl","order":6,"path":"sprites/sThumbnailControl/sThumbnailControl.yy",},
     {"name":"sTimeControl","order":3,"path":"sprites/sTimeControl/sTimeControl.yy",},
     {"name":"sToilet","order":5,"path":"sprites/sToilet/sToilet.yy",},
+    {"name":"sUpload","order":9,"path":"sprites/sUpload/sUpload.yy",},
     {"name":"sVideoStatsUI","order":8,"path":"sprites/sVideoStatsUI/sVideoStatsUI.yy",},
   ],
 }

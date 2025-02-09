@@ -3,72 +3,144 @@
    "title": "among us",
    "spriteName": "sAmongUs",
    "type": "back",
-   "idx": 0
+   "idx": 0,
+   "popularity": 7,
+   "reputation": 2,
+   "scary": -5,
+   "cardName": "siconAmongUs",
+   "inTitle": "Among Us",
+   "position": null
  },
  {
    "title": "freddy fazbear",
    "spriteName": "sFreddyFazbear",
    "type": "back",
-   "idx": 1
+   "idx": 1,
+   "popularity": -9,
+   "reputation": 0,
+   "scary": 11,
+   "cardName": "siconFreddyFazbear",
+   "inTitle": "Freddy Fazbear",
+   "position": null
  },
  {
    "title": "killer clown",
    "spriteName": "sKillerClown",
    "type": "back",
-   "idx": 3
+   "idx": 3,
+   "popularity": 2,
+   "reputation": -5,
+   "scary": 5,
+   "cardName": "siconKillerClown",
+   "inTitle": "Killer Clown",
+   "position": null
  },
  {
    "title": "squid game",
    "spriteName": "sSquidGame",
    "type": "back",
-   "idx": 5
+   "idx": 5,
+   "popularity": -7,
+   "reputation": 6,
+   "scary": 3,
+   "cardName": "siconSquidGame",
+   "inTitle": "Squid Game",
+   "position": null
  },
  {
    "title": "hacker",
    "spriteName": "sHacker",
    "type": "back",
-   "idx": 2
+   "idx": 2,
+   "popularity": 1,
+   "reputation": -5,
+   "scary": 5,
+   "cardName": "siconHacker",
+   "inTitle": "Hacker",
+   "position": null
  },
  {
    "title": "skibidi toilet",
    "spriteName": "sSkibidiToilet",
    "type": "back",
-   "idx": 4
+   "idx": 4,
+   "popularity": 4,
+   "reputation": -7,
+   "scary": 5,
+   "cardName": "siconSkibidiToilet",
+   "inTitle": "Skibidi Toilet",
+   "position": null
  },
  {
    "title": "toilet",
    "spriteName": "sToilet",
    "type": "front",
-   "idx": 5
+   "idx": 5,
+   "popularity": 8,
+   "reputation": 0,
+   "scary": -5,
+   "cardName": "siconToilet",
+   "inTitle": "Toilet",
+   "position": 2
  },
  {
    "title": "rizz",
    "spriteName": "sRizz",
    "type": "front",
-   "idx": 4
+   "idx": 4,
+   "popularity": 1,
+   "reputation": 10,
+   "scary": -15,
+   "cardName": "siconRizz",
+   "inTitle": "RIZZED by",
+   "position": 1
  },
  {
    "title": "fanum tax",
    "spriteName": "sFanumTax",
    "type": "front",
-   "idx": 1
+   "idx": 1,
+   "popularity": 7,
+   "reputation": 0,
+   "scary": -6,
+   "cardName": "siconFanumTax",
+   "inTitle": "GIGACHAD",
+   "position": 2
  },
  {
    "title": "do not call",
    "spriteName": "sDoNotCall",
    "type": "front",
-   "idx": 0
+   "idx": 0,
+   "popularity": 6,
+   "reputation": -9,
+   "scary": 6,
+   "cardName": "siconDoNotCall",
+   "inTitle": "DO NOT CALL",
+   "position": 1
  },
  {
    "title": "found",
    "spriteName": "sFound",
    "type": "front",
-   "idx": 2
+   "idx": 2,
+   "popularity": 0,
+   "reputation": 10,
+   "scary": -6,
+   "cardName": "siconFound",
+   "inTitle": "I FOUND",
+   "position": 1
  },
  {
    "title": "potion",
    "spriteName": "sPotion",
    "type": "front",
-   "idx": 3
+   "idx": 3,
+   "popularity": -1,
+   "reputation": -1,
+   "scary": 5,
+   "cardName": "",
+   "inTitle": "Potion",
+   "position": 2
  }
 ]
