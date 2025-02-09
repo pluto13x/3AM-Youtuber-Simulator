@@ -3,6 +3,9 @@ draw_set_font(fAdamantSansProRegular);
 draw_set_valign(fa_top);
 draw_set_halign(fa_left);
 
-for (var i = 0; i < array_length(iCardControl.pickedCards); i += 1) {
-	draw_text_color(x + margin, y + margin + lineSpacing * i, iCardControl.cards[iCardControl.pickedCards[i]][$ "title"], optionColor, optionColor, optionColor, optionColor, 1);
+if backIdx != -1 { 
+	draw_sprite_ext(iThumbnailControl.back[backIdx], image_index, x, y, image_xscale, image_yscale, 0, c_white, 1);
+}
+if frontIdx != -1 { 
+    draw_sprite_ext(iThumbnailControl.front[frontIdx], image_index, x, y, image_xscale, image_yscale, 0, c_white, 1);
 }

@@ -1,110 +1,74 @@
 [
  {
-   "title": "skibidi",
-   "spriteName": ""
- },
- {
-   "title": "toilet",
-   "spriteName": ""
- },
- {
-   "title": "3 AM",
-   "spriteName": ""
- },
- {
    "title": "among us",
-   "spriteName": ""
+   "spriteName": "sAmongUs",
+   "type": "back",
+   "idx": 0
  },
  {
-   "title": "freddie fazbear",
-   "spriteName": ""
- },
- {
-   "title": "slime",
-   "spriteName": ""
+   "title": "freddy fazbear",
+   "spriteName": "sFreddyFazbear",
+   "type": "back",
+   "idx": 1
  },
  {
    "title": "killer clown",
-   "spriteName": ""
- },
- {
-   "title": "ohio",
-   "spriteName": ""
- },
- {
-   "title": "rizz",
-   "spriteName": ""
- },
- {
-   "title": "thanos",
-   "spriteName": ""
+   "spriteName": "sKillerClown",
+   "type": "back",
+   "idx": 3
  },
  {
    "title": "squid game",
-   "spriteName": ""
- },
- {
-   "title": "fanum tax",
-   "spriteName": ""
- },
- {
-   "title": "do not call",
-   "spriteName": ""
- },
- {
-   "title": "gay",
-   "spriteName": ""
- },
- {
-   "title": "dark web",
-   "spriteName": ""
- },
- {
-   "title": "Elsa",
-   "spriteName": ""
- },
- {
-   "title": "spider man",
-   "spriteName": ""
+   "spriteName": "sSquidGame",
+   "type": "back",
+   "idx": 5
  },
  {
    "title": "hacker",
-   "spriteName": ""
- },
- {
-   "title": "Pomni",
-   "spriteName": ""
- },
- {
-   "title": "Huggy Wuggy",
-   "spriteName": ""
+   "spriteName": "sHacker",
+   "type": "back",
+   "idx": 2
  },
  {
    "title": "skibidi toilet",
-   "spriteName": ""
+   "spriteName": "sSkibidiToilet",
+   "type": "back",
+   "idx": 4
  },
  {
-   "title": "Wednesday",
-   "spriteName": ""
+   "title": "toilet",
+   "spriteName": "sToilet",
+   "type": "front",
+   "idx": 5
  },
  {
-   "title": "Fortnite",
-   "spriteName": ""
+   "title": "rizz",
+   "spriteName": "sRizz",
+   "type": "front",
+   "idx": 4
  },
  {
-   "title": "Roblox",
-   "spriteName": ""
+   "title": "fanum tax",
+   "spriteName": "sFanumTax",
+   "type": "front",
+   "idx": 1
  },
  {
-   "title": "sigma",
-   "spriteName": ""
+   "title": "do not call",
+   "spriteName": "sDoNotCall",
+   "type": "front",
+   "idx": 0
  },
  {
    "title": "found",
-   "spriteName": ""
+   "spriteName": "sFound",
+   "type": "front",
+   "idx": 2
  },
  {
    "title": "potion",
-   "spriteName": ""
+   "spriteName": "sPotion",
+   "type": "front",
+   "idx": 3
  }
 ]

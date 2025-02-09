@@ -16,14 +16,11 @@ if (file_exists(working_directory + "cards.json")) {
 
 cardsAmount = array_length_1d(cards);
 for (var i = 0; i < cardsAmount; i += 1) {
-	cardChecker[i] = false;
 	cardOrder[i] = i;
 }
 
 cardOrder = array_shuffle(cardOrder);
-show_debug_message(cardOrder);
 next = 0;
-
 pickedCards = [];
 
 //define card positions
