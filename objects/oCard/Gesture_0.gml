@@ -8,17 +8,24 @@ if idx != -1 {
 			iStats.title1 = iStats.title2;
 			iStats.title2 = iCardControl.cards[idx][$ "inTitle"];
 		}
+		iStatCalculator.addPopularity1 = iCardControl.cards[idx][$ "popularity"];
+		iStatCalculator.addScary1 = iCardControl.cards[idx][$ "scary"];
+		iStatCalculator.addReputation1 = iCardControl.cards[idx][$ "reputation"];
 	}
 	
 	else if iCardControl.cards[idx][$ "type"] == "back" {
 		oThumbnail.backIdx = iCardControl.cards[idx][$ "idx"];
 		iStats.title2 = iCardControl.cards[idx][$ "inTitle"];
+		
+		iStatCalculator.addPopularity2 = iCardControl.cards[idx][$ "popularity"];
+		iStatCalculator.addScary2 = iCardControl.cards[idx][$ "scary"];
+		iStatCalculator.addReputation2 = iCardControl.cards[idx][$ "reputation"];
 	}
 	else if iCardControl.cards[idx][$ "type"] == "overlay" {
-		oThumbnail.overlayIdx = iCardControl.cards[idx][$ "idx"];
+		iStats.overlayIdx = iCardControl.cards[idx][$ "idx"];
 	}
 	else {
-		oThumbnail.endingIdx = iCardControl.cards[idx][$ "idx"];
+		iStats.endingIdx = iCardControl.cards[idx][$ "idx"];
 	}
 }
 
