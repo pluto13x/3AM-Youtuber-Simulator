@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fAdamantSansProRegular",
+  "%Name":"fSubscriber",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":42,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":52,
   "maintainGms1Font":false,
-  "name":"fAdamantSansProRegular",
+  "name":"fSubscriber",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",
