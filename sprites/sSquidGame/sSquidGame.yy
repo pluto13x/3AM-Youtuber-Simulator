@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sSquidGame",
   "bboxMode":0,
   "bbox_bottom":1079,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"b991791b-98bf-49d9-bd04-7a2ee757f8c8","name":"b991791b-98bf-49d9-bd04-7a2ee757f8c8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b991791b-98bf-49d9-bd04-7a2ee757f8c8","name":"b991791b-98bf-49d9-bd04-7a2ee757f8c8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"sSquidGame",
     "autoRecord":true,
     "backdropHeight":768,
@@ -68,9 +68,7 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b991791b-98bf-49d9-bd04-7a2ee757f8c8","path":"sprites/sSquidGame/sSquidGame.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"cb11f773-4181-47e6-adf3-8f2209cdf136","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"b991791b-98bf-49d9-bd04-7a2ee757f8c8","path":"sprites/sSquidGame/sSquidGame.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"cb11f773-4181-47e6-adf3-8f2209cdf136","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

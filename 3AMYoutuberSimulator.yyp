@@ -1,8 +1,8 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"3AMYoutuberSimulator",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -35,6 +35,7 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"cards.json","CopyToMask":-1,"filePath":"datafiles","name":"cards.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"COAD.json","CopyToMask":-1,"filePath":"datafiles","name":"COAD.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
@@ -48,7 +49,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.14.3.217",
   },
   "name":"3AMYoutuberSimulator",
   "resources":[
@@ -69,6 +70,7 @@
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
     {"id":{"name":"oPfp","path":"objects/oPfp/oPfp.yy",},},
     {"id":{"name":"oProgressBar","path":"objects/oProgressBar/oProgressBar.yy",},},
+    {"id":{"name":"oShowDay","path":"objects/oShowDay/oShowDay.yy",},},
     {"id":{"name":"oShowPopularity","path":"objects/oShowPopularity/oShowPopularity.yy",},},
     {"id":{"name":"oShowPopularityAdd","path":"objects/oShowPopularityAdd/oShowPopularityAdd.yy",},},
     {"id":{"name":"oShowReputation","path":"objects/oShowReputation/oShowReputation.yy",},},
@@ -106,6 +108,7 @@
     {"id":{"name":"sPotion","path":"sprites/sPotion/sPotion.yy",},},
     {"id":{"name":"sProgressBar","path":"sprites/sProgressBar/sProgressBar.yy",},},
     {"id":{"name":"sRandomEvents","path":"sprites/sRandomEvents/sRandomEvents.yy",},},
+    {"id":{"name":"sRectangle","path":"sprites/sRectangle/sRectangle.yy",},},
     {"id":{"name":"sRizz","path":"sprites/sRizz/sRizz.yy",},},
     {"id":{"name":"sSkibidiToilet","path":"sprites/sSkibidiToilet/sSkibidiToilet.yy",},},
     {"id":{"name":"sSquidGame","path":"sprites/sSquidGame/sSquidGame.yy",},},
