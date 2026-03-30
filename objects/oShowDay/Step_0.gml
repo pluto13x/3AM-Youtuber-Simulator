@@ -1,7 +1,7 @@
 if start {
 	if fade == "in" {
 		image_alpha += 0.8 * (delta_time / 1000000);
-		if image_alpha >= 1 {
+		if image_alpha >= 1 and done == false {
 			fade = "out";
 			start = false;	
 			timer = 1;
@@ -23,4 +23,8 @@ else {
 	else if fade == "out" {
 		start = true;
 	}
+}
+
+if day > maxdays {
+	//room_goto(rScoreScreen)
 }
