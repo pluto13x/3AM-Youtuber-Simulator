@@ -12,10 +12,6 @@ with (iStatCalculator) {
 	addPopularity2 = 0;
 }
 
-with (iCardControl) {
-
-}
-
 with(iStats){
 	subscribers += (popularity + reputation + scary) * 347;
 	title1 = "";
@@ -25,4 +21,9 @@ with(iStats){
 with(oThumbnail) {
 	frontIdx = -1;
 	backIdx = -1;
+}
+
+with(oShowDay) {
+	start = true;
+	day += 1;
 }
