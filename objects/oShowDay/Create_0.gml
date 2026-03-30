@@ -1,5 +1,5 @@
-image_alpha = 0;
-fade = "in";
-start = false;
+image_alpha = 1;
+fade = "out";
+start = true;
 timer = 0;
-day = 2
+day = 1
