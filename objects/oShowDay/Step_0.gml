@@ -1,5 +1,6 @@
 if start {
 	if fade == "in" {
+		oUpload.disabled = true
 		image_alpha += 0.8 * (delta_time / 1000000);
 		if image_alpha >= 1 and done == false {
 			fade = "out";
@@ -22,6 +23,7 @@ else {
 	}
 	else if fade == "out" {
 		start = true;
+		oUpload.disabled = false
 	}
 }
 
