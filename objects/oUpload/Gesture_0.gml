@@ -29,5 +29,9 @@ if !disabled {
 		start = true;
 		day += 1;
 	}
+	
+	with (iCardControl) {
+		next = 0;
+	}
 
 }

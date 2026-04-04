@@ -3,5 +3,5 @@ fade = "out";
 start = true;
 timer = 0;
 day = 1;
-maxdays = 2;
+maxdays = 7;
 done = false;

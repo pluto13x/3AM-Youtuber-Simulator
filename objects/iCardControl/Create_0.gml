@@ -1,5 +1,6 @@
 //import cards from json
 cards = undefined;
+randomizeCards = false;
 
 if (file_exists(working_directory + "cards.json")) {
 	var json = "";

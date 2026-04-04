@@ -22,11 +22,8 @@ else {
 		timer -= delta_time / 1000000; // convert microseconds → seconds
 	}
 	else if fade == "out" {
+		iCardControl.randomizeCards = true;
 		start = true;
 		oUpload.disabled = false
 	}
-}
-
-if day > maxdays {
-	//room_goto(rScoreScreen)
 }
