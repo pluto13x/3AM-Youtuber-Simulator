@@ -54,6 +54,7 @@
   "name":"3AMYoutuberSimulator",
   "resources":[
     {"id":{"name":"fAdamantSansProRegular","path":"fonts/fAdamantSansProRegular/fAdamantSansProRegular.yy",},},
+    {"id":{"name":"fCards","path":"fonts/fCards/fCards.yy",},},
     {"id":{"name":"fChannelNameDown","path":"fonts/fChannelNameDown/fChannelNameDown.yy",},},
     {"id":{"name":"fChannelNameUp","path":"fonts/fChannelNameUp/fChannelNameUp.yy",},},
     {"id":{"name":"fComment","path":"fonts/fComment/fComment.yy",},},
@@ -66,7 +67,6 @@
     {"id":{"name":"iThumbnailControl","path":"objects/iThumbnailControl/iThumbnailControl.yy",},},
     {"id":{"name":"oCard","path":"objects/oCard/oCard.yy",},},
     {"id":{"name":"oCommentOfTheDay","path":"objects/oCommentOfTheDay/oCommentOfTheDay.yy",},},
-    {"id":{"name":"oExit","path":"objects/oExit/oExit.yy",},},
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
     {"id":{"name":"oPfp","path":"objects/oPfp/oPfp.yy",},},
     {"id":{"name":"oProgressBar","path":"objects/oProgressBar/oProgressBar.yy",},},

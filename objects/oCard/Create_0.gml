@@ -1,6 +1,6 @@
-margin = 60;
-topMargin = 60;
-lineSpacing = 60;
+margin = 25;
+topMargin = 230;
+lineSpacing = 30;
 textColor = c_black;
 recreate = false
 

@@ -25,6 +25,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"fCards","order":5,"path":"fonts/fCards/fCards.yy",},
     {"name":"fChannelNameDown","order":3,"path":"fonts/fChannelNameDown/fChannelNameDown.yy",},
     {"name":"fChannelNameUp","order":2,"path":"fonts/fChannelNameUp/fChannelNameUp.yy",},
     {"name":"fComment","order":4,"path":"fonts/fComment/fComment.yy",},
@@ -36,7 +37,6 @@
     {"name":"iThumbnailControl","order":3,"path":"objects/iThumbnailControl/iThumbnailControl.yy",},
     {"name":"oCard","order":8,"path":"objects/oCard/oCard.yy",},
     {"name":"oCommentOfTheDay","order":25,"path":"objects/oCommentOfTheDay/oCommentOfTheDay.yy",},
-    {"name":"oExit","order":4,"path":"objects/oExit/oExit.yy",},
     {"name":"oMenu","order":1,"path":"objects/oMenu/oMenu.yy",},
     {"name":"oPfp","order":13,"path":"objects/oPfp/oPfp.yy",},
     {"name":"oProgressBar","order":14,"path":"objects/oProgressBar/oProgressBar.yy",},
