@@ -33,5 +33,8 @@ if !disabled and oThumbnail.frontIdx != -1 and oThumbnail.backIdx != -1 {
 	with (iCardControl) {
 		next = 0;
 	}
-
+	
+	with (oCommentOfTheDay) {
+		reset = true
+	}
 }

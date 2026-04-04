@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fChannelNameDown",
+  "%Name":"fComment",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":29,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":37,
   "maintainGms1Font":false,
-  "name":"fChannelNameDown",
+  "name":"fComment",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",

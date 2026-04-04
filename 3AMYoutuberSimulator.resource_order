@@ -27,9 +27,9 @@
   "ResourceOrderSettings":[
     {"name":"fChannelNameDown","order":3,"path":"fonts/fChannelNameDown/fChannelNameDown.yy",},
     {"name":"fChannelNameUp","order":2,"path":"fonts/fChannelNameUp/fChannelNameUp.yy",},
+    {"name":"fComment","order":4,"path":"fonts/fComment/fComment.yy",},
     {"name":"fSubscriber","order":1,"path":"fonts/fSubscriber/fSubscriber.yy",},
     {"name":"iCardControl","order":2,"path":"objects/iCardControl/iCardControl.yy",},
-    {"name":"iCOAD","order":6,"path":"objects/iCOAD/iCOAD.yy",},
     {"name":"iInitNext","order":1,"path":"objects/iInitNext/iInitNext.yy",},
     {"name":"iStatCalculator","order":5,"path":"objects/iStatCalculator/iStatCalculator.yy",},
     {"name":"iStats","order":4,"path":"objects/iStats/iStats.yy",},
