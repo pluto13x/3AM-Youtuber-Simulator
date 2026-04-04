@@ -21,9 +21,7 @@ if idx != -1 {
 		iStatCalculator.addScary2 = iCardControl.cards[idx][$ "scary"];
 		iStatCalculator.addReputation2 = iCardControl.cards[idx][$ "reputation"];
 	}
-	else if iCardControl.cards[idx][$ "type"] == "overlay" {
-		iStats.overlayIdx = iCardControl.cards[idx][$ "idx"];
-	}
+
 	else {
 		iStats.endingIdx = iCardControl.cards[idx][$ "idx"];
 	}
