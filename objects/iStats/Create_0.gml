@@ -1,8 +1,8 @@
 subscribers = 10;
 username = "DemonDialers3AM";
 popularity = 5;
-reputation = 50;
-scary = 50;
+reputation = 15;
+scary = 20;
 
 title1 = "";
 title2 = "";

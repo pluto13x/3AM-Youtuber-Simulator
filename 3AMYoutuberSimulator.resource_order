@@ -40,6 +40,7 @@
     {"name":"oCard","order":8,"path":"objects/oCard/oCard.yy",},
     {"name":"oCommentOfTheDay","order":25,"path":"objects/oCommentOfTheDay/oCommentOfTheDay.yy",},
     {"name":"oGameOver","order":27,"path":"objects/oGameOver/oGameOver.yy",},
+    {"name":"oGameOverText","order":28,"path":"objects/oGameOverText/oGameOverText.yy",},
     {"name":"oMenu","order":1,"path":"objects/oMenu/oMenu.yy",},
     {"name":"oPfp","order":13,"path":"objects/oPfp/oPfp.yy",},
     {"name":"oProgressBar","order":14,"path":"objects/oProgressBar/oProgressBar.yy",},
