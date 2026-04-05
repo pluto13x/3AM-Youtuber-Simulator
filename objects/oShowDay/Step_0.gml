@@ -22,6 +22,9 @@ else {
 		timer -= delta_time / 1000000; // convert microseconds → seconds
 	}
 	else if fade == "out" {
+		if gameover {
+			instance_create_layer(0, 0, "layerGameOver", oGameOver);
+		}
 		iCardControl.randomizeCards = true;
 		start = true;
 		oUpload.disabled = false

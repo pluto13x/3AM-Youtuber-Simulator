@@ -7,7 +7,6 @@ if day <= maxdays and gameover == false {
 }
 else if gameover == true {
 	draw_text(x, y, "Game over");
-	done = true;
 }
 else {
 	draw_text(x, y, "Final score: " + string(iStats.subscribers) + " subsribers");
