@@ -3,6 +3,7 @@ topMargin = 230;
 lineSpacing = 30;
 textColor = c_black;
 recreate = false
+cardIcon = sIconAmongUs
 
 idx = 0;
 

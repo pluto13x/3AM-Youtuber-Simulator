@@ -23,3 +23,5 @@ for (var i = 0; i < cardsAmount; i += 1) {
 cardOrder = array_shuffle(cardOrder);
 next = 0;
 pickedCards = [];
+
+

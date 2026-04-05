@@ -17,6 +17,9 @@ if idx != -1 {
         sprite_width + 200,
         textColor, textColor, textColor, textColor, 1
     );
+    var _card_icon = asset_get_index(iCardControl.cards[idx][$ "cardName"]);
+    draw_sprite_ext(_card_icon, 0, x, y, image_xscale, image_yscale, 0, c_white, 1);
+
 }
 
 draw_set_halign(_old_halign);

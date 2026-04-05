@@ -7,7 +7,7 @@
    "popularity": 7,
    "reputation": 2,
    "scary": -5,
-   "cardName": "siconAmongUs",
+   "cardName": "sIconAmongUs",
    "inTitle": "Among Us",
    "position": null
  },
@@ -19,7 +19,7 @@
    "popularity": -9,
    "reputation": 0,
    "scary": 11,
-   "cardName": "siconFreddyFazbear",
+   "cardName": "sIconFreddy",
    "inTitle": "Freddy Fazbear",
    "position": null
  },
@@ -31,7 +31,7 @@
    "popularity": 2,
    "reputation": -5,
    "scary": 5,
-   "cardName": "siconKillerClown",
+   "cardName": "sIconKillerClown",
    "inTitle": "Killer Clown",
    "position": null
  },
@@ -43,7 +43,7 @@
    "popularity": -7,
    "reputation": 6,
    "scary": 3,
-   "cardName": "siconSquidGame",
+   "cardName": "sIconSquidGame",
    "inTitle": "Squid Game",
    "position": null
  },
@@ -55,7 +55,7 @@
    "popularity": 1,
    "reputation": -5,
    "scary": 5,
-   "cardName": "siconHacker",
+   "cardName": "sIconHacker",
    "inTitle": "Hacker",
    "position": null
  },
@@ -67,7 +67,7 @@
    "popularity": 4,
    "reputation": -7,
    "scary": 5,
-   "cardName": "siconSkibidiToilet",
+   "cardName": "sIconSkibidi",
    "inTitle": "Skibidi Toilet",
    "position": null
  },
@@ -79,7 +79,7 @@
    "popularity": 8,
    "reputation": 0,
    "scary": -5,
-   "cardName": "siconToilet",
+   "cardName": "sIconToilet",
    "inTitle": "Toilet",
    "position": 1
  },
@@ -91,19 +91,19 @@
    "popularity": 1,
    "reputation": 10,
    "scary": -15,
-   "cardName": "siconRizz",
+   "cardName": "sIconRizz",
    "inTitle": "RIZZED by",
    "position": 1
  },
  {
-   "title": "fanum tax",
-   "spriteName": "sFanumTax",
+   "title": "gigachad",
+   "spriteName": "sGigachad",
    "type": "front",
    "idx": 1,
    "popularity": 7,
    "reputation": 0,
    "scary": -6,
-   "cardName": "siconFanumTax",
+   "cardName": "sIconGigachad",
    "inTitle": "GIGACHAD",
    "position": 1
  },
@@ -115,7 +115,7 @@
    "popularity": 6,
    "reputation": -9,
    "scary": 6,
-   "cardName": "siconDoNotCall",
+   "cardName": "sIconDoNotCall",
    "inTitle": "DO NOT CALL",
    "position": 1
  },
@@ -127,7 +127,7 @@
    "popularity": 0,
    "reputation": 10,
    "scary": -6,
-   "cardName": "siconFound",
+   "cardName": "sIconFound",
    "inTitle": "I FOUND",
    "position": 1
  },
@@ -139,7 +139,7 @@
    "popularity": -1,
    "reputation": -1,
    "scary": 5,
-   "cardName": "",
+   "cardName": "sIconPotion",
    "inTitle": "Potion",
    "position": 1
  }
