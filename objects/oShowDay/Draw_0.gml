@@ -6,11 +6,18 @@ draw_set_font(fAdamantSansProRegular)
 if day <= maxdays and gameover == false {
 	draw_text(x, y, "Day " + string(day));
 }
-else if gameover == true {
+else if gameover == true and gamedone == false {
 	draw_text(x, y, "Game over");
 }
 else {
-	draw_text(x, y, "Final score: " + string(iStats.subscribers) + " subsribers");
-	done = true;
+	try {
+		gameover = true
+		draw_text(x, y, "Final score: " + string(iStats.subscribers) + " subsribers");
+		oGameOver.sprite_index = sDisstrack;
+		oGameOverText.thetext = "Character cannot be developed in ease and quiet. \n\nOnly through experience of trial and suffering can the soul be strengthened, \n\nvision cleared, \n\nambition inspired \n\nand success achieved. \n\n\n\n - Helen Keller";
+	}
+	catch (e) {
+		show_debug_message("Error: " + string(e));
+	}
 }
 draw_set_alpha(1);
