@@ -22,6 +22,7 @@ for (var i = 0; i < optionLength; i += 1) {
 }
 //funkcionalne opcije
 if acceptKey {
+	audio_play_sound(seBoom, 10, false)
 	switch(menuLevel) { 
 		case 0: //main and ingame menu
 			switch(position) {
@@ -29,6 +30,7 @@ if acceptKey {
 				    //"start game"
 					if iMenuControl.menuType == "main" {
 						room_goto(rMainRoom);
+						audio_play_sound(seOne, 10, false);
 					}
 					//"resume game"
 					else {

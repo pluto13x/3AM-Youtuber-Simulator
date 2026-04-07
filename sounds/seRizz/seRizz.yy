@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":3.2972336,
+  "duration":2.2231972,
   "exportDir":"",
   "name":"seRizz",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"seRizz.mp3",
+  "soundFile":"seRizz.wav",
   "volume":1.0,
 }

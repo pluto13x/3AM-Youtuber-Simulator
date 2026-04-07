@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":4.9690704,
+  "duration":3.8597958,
   "exportDir":"",
   "name":"seFreddyFazbear",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"seFreddyFazbear.mp3",
+  "soundFile":"seFreddyFazbear.wav",
   "volume":1.0,
 }

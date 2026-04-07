@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"seSix",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.0217687,
+  "exportDir":"",
+  "name":"seSix",
+  "parent":{
+    "name":"numbers",
+    "path":"folders/Sounds/numbers.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"seSix.wav",
+  "volume":1.0,
+}

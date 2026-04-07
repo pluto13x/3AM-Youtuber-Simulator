@@ -24,4 +24,5 @@ cardOrder = array_shuffle(cardOrder);
 next = 0;
 pickedCards = [];
 
+audio_play_sound(seBgm, 10, true);
 

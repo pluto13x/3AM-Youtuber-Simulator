@@ -28,6 +28,18 @@ if !disabled and oThumbnail.frontIdx != -1 and oThumbnail.backIdx != -1 {
 	with(oShowDay) {
 		start = true;
 		day += 1;
+		if oShowDay.gameover == false {
+			if (day == 2) audio_play_sound(seTwo, 10, false);
+			else if (day == 3) audio_play_sound(seThree, 10, false);
+			else if (day == 4) audio_play_sound(seFour, 10, false);
+			else if (day == 5) audio_play_sound(seFive, 10, false);
+			else if (day == 6) audio_play_sound(seSix, 10, false);
+			else if (day == 7) audio_play_sound(seSeven, 10, false);
+			else if (day == 8) audio_play_sound(seEight, 10, false);
+			else if (day == 9) audio_play_sound(seNine, 10, false);
+			else if (day == 10) audio_play_sound(seTen, 10, false);
+			else if (day == 11) audio_play_sound(seEleven, 10, false);
+		}
 	}
 	
 	with (iCardControl) {

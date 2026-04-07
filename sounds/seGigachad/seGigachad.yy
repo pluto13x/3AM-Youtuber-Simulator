@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":9.705941,
+  "duration":8.644694,
   "exportDir":"",
   "name":"seGigachad",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"seGigachad.mp3",
+  "soundFile":"seGigachad.wav",
   "volume":1.0,
 }

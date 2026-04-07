@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":3.2275736,
+  "duration":2.9310431,
   "exportDir":"",
   "name":"seBoom",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"seBoom.mp3",
+  "soundFile":"seBoom.wav",
   "volume":1.0,
 }

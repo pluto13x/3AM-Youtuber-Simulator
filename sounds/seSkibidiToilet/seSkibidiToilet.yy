@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":1.4396372,
+  "duration":1.1114513,
   "exportDir":"",
   "name":"seSkibidiToilet",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"seSkibidiToilet.mp3",
+  "soundFile":"seSkibidiToilet.wav",
   "volume":1.0,
 }

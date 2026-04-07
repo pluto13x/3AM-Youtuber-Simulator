@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"seAmongUs.mp3",
+  "soundFile":"seAmongUs.wav",
   "volume":1.0,
 }
