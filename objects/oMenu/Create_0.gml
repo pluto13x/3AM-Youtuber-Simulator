@@ -24,9 +24,9 @@ else {
 }
 
 //settings menu
-option[1,0] = "Window size";
-option[1,1] = "Brightness";
-option[1,2] = "Controls";
+option[1,0] = "It's a brainrot game";
+option[1,1] = "I'm not adding no options";
+option[1,2] = "";
 option[1,3] = "Back";
 
 optionLength = array_length(option[0]);
