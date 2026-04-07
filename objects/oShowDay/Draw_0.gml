@@ -22,7 +22,7 @@ else {
 			playedEffect = true
 		}
 		draw_text(x, y, "Final score: " + string(iStats.subscribers) + " subsribers");
-		oGameOver.sprite_index = sDisstrack;
+		oGameOver.sprite_index = sSuccess;
 		oGameOverText.thetext = "Character cannot be developed in ease and quiet. \n\nOnly through experience of trial and suffering can the soul be strengthened, \n\nvision cleared, \n\nambition inspired \n\nand success achieved. \n\n\n\n - Helen Keller";
 	}
 	catch (e) {

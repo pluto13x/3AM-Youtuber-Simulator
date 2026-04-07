@@ -160,6 +160,7 @@
     {"id":{"name":"sStatCalculator","path":"sprites/sStatCalculator/sStatCalculator.yy",},},
     {"id":{"name":"sStats","path":"sprites/sStats/sStats.yy",},},
     {"id":{"name":"sStatsUI","path":"sprites/sStatsUI/sStatsUI.yy",},},
+    {"id":{"name":"sSuccess","path":"sprites/sSuccess/sSuccess.yy",},},
     {"id":{"name":"sThumbBG","path":"sprites/sThumbBG/sThumbBG.yy",},},
     {"id":{"name":"sThumbnailControl","path":"sprites/sThumbnailControl/sThumbnailControl.yy",},},
     {"id":{"name":"sTimeControl","path":"sprites/sTimeControl/sTimeControl.yy",},},

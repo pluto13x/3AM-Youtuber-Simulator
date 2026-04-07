@@ -119,6 +119,7 @@
     {"name":"sStatCalculator","order":8,"path":"sprites/sStatCalculator/sStatCalculator.yy",},
     {"name":"sStats","order":7,"path":"sprites/sStats/sStats.yy",},
     {"name":"sStatsUI","order":3,"path":"sprites/sStatsUI/sStatsUI.yy",},
+    {"name":"sSuccess","order":4,"path":"sprites/sSuccess/sSuccess.yy",},
     {"name":"sThumbBG","order":3,"path":"sprites/sThumbBG/sThumbBG.yy",},
     {"name":"sThumbnailControl","order":6,"path":"sprites/sThumbnailControl/sThumbnailControl.yy",},
     {"name":"sTimeControl","order":3,"path":"sprites/sTimeControl/sTimeControl.yy",},
