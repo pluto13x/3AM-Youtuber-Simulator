@@ -25,6 +25,8 @@ if idx != -1 {
 	else {
 		iStats.endingIdx = iCardControl.cards[idx][$ "idx"];
 	}
+	
+	audio_play_sound(asset_get_index(iCardControl.cards[idx][$ "soundEffect"]), 10, false);
 }
 
 with (iCardControl) {
