@@ -31,6 +31,12 @@ if acceptKey {
 					if iMenuControl.menuType == "main" {
 						room_goto(rMainRoom);
 						audio_play_sound(seOne, 10, false);
+						with iStats {
+						subscribers = 10;
+						popularity = 5;
+						reputation = 15;
+						scary = 20;							
+						}
 					}
 					//"resume game"
 					else {
